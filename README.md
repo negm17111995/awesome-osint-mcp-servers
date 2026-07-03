@@ -28,6 +28,7 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 - [Meta / Discovery](#meta--discovery)
 - [Blockchain Intelligence](#blockchain-intelligence)
 - [Market & Trading](#market--trading)
+- [MAQAMI Travel](https://github.com/negm17111995/mcp-server) - Hotel and flight booking MCP server with direct booking links for 249 countries.
 
 ## SOCMINT
 
